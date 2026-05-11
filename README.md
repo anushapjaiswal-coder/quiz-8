@@ -8,11 +8,11 @@ I'm inspired by **timelapse photography that compresses an entire day-night cycl
 
 ### Reference Images
 
-![Day to night timelapse showing colour transition across a landscape](https://mymodernmet.com/wp/wp-content/uploads/2017/03/matt-molloy-time-lapse-photography-3.jpg)
-*Matt Molloy – Timelapse photography capturing the full spectrum of sky colours across a day-night transition*
+![Day to night timelapse over a city skyline](1.jpg)
+*City skyline timelapse showing the full spectrum of sky colours from golden hour through sunset to night*
 
-![Timelapse sunset to night transition over mountains](https://i.pinimg.com/originals/5f/75/65/5f7565c52ed5c99e26a0f8a3a7c0be1d.jpg)
-*Mountain timelapse showing the gradual colour shift from golden hour through dusk to night*
+![Day to night timelapse over Florence](2.jpg)
+*Florence timelapse capturing the gradual colour shift from daylight through dusk to night across vertical time slices*
 
 ---
 
@@ -28,6 +28,3 @@ The p5.js function **`lerpColor()`** smoothly interpolates between two colours b
 [https://editor.p5js.org/BarneyCodes/sketches/GMnG2jvHG](https://editor.p5js.org/BarneyCodes/sketches/GMnG2jvHG)
 
 This sketch uses `lerpColor()` driven by `frameCount` and trigonometric functions to cycle a generative landscape through day and night phases, smoothly blending sky colours and adjusting scene elements based on the time of day.
-
-![p5.js generative landscape with procedural sky](https://i.ytimg.com/vi/HoVE7JeAFQo/maxresdefault.jpg)
-*p5.js generative landscape — procedural terrain and sky colours driven by code*
